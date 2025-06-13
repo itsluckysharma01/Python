@@ -2,27 +2,23 @@
  Data Curation Using Python 
 Welcome to the Data Curation Using Python. This introductory notebook is designed for beginners who are starting their journey with Python, especially in the context of data science and data handling.
 
-As i am currenntly lerning the Data Curation this will beginer an easy readable file for good practice and learning. This file have a Code with Heading that help to understand the code.
+As I am currently learning Data Curation, this will be an easy, readable file for good practice and learning. This file has a Code with a heading that helps to understand the code.
 
 📘 Overview
-This notebook includes:
 
-Introduction to basic Python syntax.
+👨‍💻 -----------01_Lucky_Sharma_DataCuration file notebook includes include:----------👨‍💻 
 
-Printing statements using different formats.
+Key Concepts Covered: --
 
-Understanding and checking data types.
-
-Assigning and displaying variables.
+Introduction to basic Python.
 
 Assignment Questions
 
-👨‍💻 Key Concepts Covered
-Python Syntax
-
 Loops and Functions
 
-Pattern
+Classes and Objects
+
+Pattern Problems
 
 List
 
@@ -32,6 +28,7 @@ Dictionary
 
 String
 
+Output:---
 
 Displaying outputs in a readable format.
 
@@ -39,7 +36,7 @@ Displaying outputs in a readable format.
 🛠️ Requirements
 This notebook is designed for Google Colab. No additional setup is needed—just open and run.
 
-You can also done in Jupyter Notebook 
+You can also do it in Jupyter Notebook .
 
 📌 Author
 Lucky Sharma
